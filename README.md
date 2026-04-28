@@ -1,2 +1,13 @@
-# About-Me
-Data-focused professional skilled in organizing, analyzing, and interpreting data to support decision-making. Experienced in working with structured datasets and identifying patterns, with growing expertise in data analysis and machine learning.
+# Hi there 👋 You are welcome to my Portfolio
+
+## My name is Opeyemi Oguntayo Robert, and I am the Data Expert :blush:
+
+**Here are some ideas to get you started:**
+
+- 🔭 I’m a self Driven Data Analyst/Scientist.
+- 🤔 I’m interested in data science, Machine Learning, AI Agents particularly analytics and its application to solving business problems.
+- 👯 I’m looking to collaborate on everything data projects, Let's talk data.
+- 💬 I have a great grasp of the SQL of different flavours (including MySQl, Postgresql, BigQuery, Python, R .
+- 🌱 I build visualizations that are not only stunning but most importantly drive data driven decisions for organizations.
+- 📫 How to reach me:
+- [Email:](ibunkunafrica@gmail.com)
